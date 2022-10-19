@@ -1,6 +1,6 @@
 # Phone App
 
-
+Alvin's first phone app.
 
 ## Getting started
 
