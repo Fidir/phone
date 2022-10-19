@@ -32,7 +32,7 @@ class MainApp(App):
         main_layout.add_widget(self.display)
         main_layout.add_widget(self.solution)
         buttons = [
-            ["Compartment 1", "Compartment 2", "Compartment 3", "Compartment 4"],
+            ["Compartment 1000", "Compartment 2", "Compartment 3", "Compartment 4"],
         ]
         for row in buttons:
             h_layout = BoxLayout()
